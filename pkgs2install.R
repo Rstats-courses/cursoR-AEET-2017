@@ -1,5 +1,18 @@
 install.packages(
-  c("ggplot2",
-    "raster"
+  c("cowplot",
+    "citr",
+    "dismo",
+    "ggplot2",
+    "ggThemeAssist",
+    "ggthemes",
+    "knitr",
+    "mapr",
+    "paperplanes",
+    "plotly",
+    "raster",
+    "rcrossref",
+    "rgdal",
+    "rmarkdown",
+    "sp"
     )
 )
