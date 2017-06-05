@@ -47,6 +47,8 @@ Cada alumno dispondrá de un ordenador. Los alumnos que traigan su propio portá
 
 - La **última versión** de [Rstudio](https://www.rstudio.com/products/rstudio/download/) 
 
+- Los paquetes incluidos [aquí](https://raw.githubusercontent.com/Rstats-courses/cursoR-AEET-2017/master/pkgs2install.R), actualizados a su última versión. Probablemente la forma más fácil es ejecutar `source("https://raw.githubusercontent.com/Rstats-courses/cursoR-AEET-2017/master/pkgs2install.R")` desde vuestro R para instalar la última versión de todos los paquetes.
+
 
 
 ## Contacto
