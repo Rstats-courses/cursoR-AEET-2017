@@ -6,6 +6,7 @@ install.packages(
     "ggThemeAssist",
     "ggthemes",
     "knitr",
+    "lme4",
     "mapr",
     "paperplanes",
     "plotly",
