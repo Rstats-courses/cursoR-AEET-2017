@@ -12,10 +12,11 @@ Barcelona, 12-16 Junio 2017.
 
 ## Lugar de celebración
 
+Sala Polivalente C5/1066   
 CREAF  
 Campus de Bellaterra (UAB) Edifici C  
 08193 Cerdanyola del Vallès  
-Sala Polivalente C5/1066   
+
 
 [Mapa](http://www.creaf.cat/es/como-llegar-al-creaf/mapa-de-situacion)
 

@@ -1,19 +1,30 @@
 install.packages(
-  c("cowplot",
+  c("arm",
+    "babynames",
+    "cowplot",
     "citr",
+    "DHARMa",
     "dismo",
+    "dplyr",
+    "effects",
     "ggplot2",
     "ggThemeAssist",
     "ggthemes",
     "knitr",
     "lme4",
     "mapr",
+    "merTools",
     "paperplanes",
     "plotly",
+    "purr",
     "raster",
     "rcrossref",
+    "readr",
     "rgdal",
     "rmarkdown",
-    "sp"
+    "sp",
+    "tidyr",
+    "vegan",
+    "visreg"
     )
 )
