@@ -16,7 +16,7 @@ install.packages(
     "merTools",
     "paperplanes",
     "plotly",
-    "purr",
+    "purrr",
     "raster",
     "rcrossref",
     "readr",
