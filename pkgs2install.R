@@ -1,6 +1,7 @@
 install.packages(
   c("arm",
     "babynames",
+    "broom",
     "cowplot",
     "citr",
     "DHARMa",
