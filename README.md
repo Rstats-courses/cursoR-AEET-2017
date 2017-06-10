@@ -33,8 +33,8 @@ Lunes a viernes de 9:30 a 13:30, y de 15:00 a 17 horas.
 |   |               Mañana              |      Tarde      |
 |:-:|:---------------------------------:|:---------------:|
 | L |         Programación en R         |      ggplot     |
-| M |       Análisis multivariante      | Programación II |
-| X |           Modelos mixtos          |  Modelos mixtos |
+| M |           Modelos mixtos          |  Modelos mixtos |
+| X |       Análisis multivariante      | Programación II |
 | J |           Rmarkdown - Git         |  Modelos nulos  |
 | V | GIS en R - análisis datos propios |  datos propios  |
 
