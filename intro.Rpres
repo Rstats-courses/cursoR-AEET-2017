@@ -9,29 +9,29 @@ Como serán los siguientes 5 días de vuestra vida?
 
 * Introducción (yo hablando; 45')
 * Programación en R (Nacho) + Visualización de datos (Paco)
+* GLM & Modelos mixtos (Paco)
 * Multivariante (Nacho) + Programación (Nacho)
-* Modelos mixtos (Paco)
-* RMarckdown y git (Paco) + Modelos nulos (yo)
-* GIS (Paco) + "a jugar" (Paco y yo)
+* RMarkdown, git y GitHub (Paco) + Modelos nulos (Nacho)
+* GIS (Paco) + "a jugar" (Paco y Nacho)
 
 Feedback: <a href="nacho.bartomeus@gmail.com">Email: nacho.bartomeus@gmail.com</a>
 
 [Twitter @ibartomeus](https://twitter.com/ibartomeus)
 
 
-Como se estructuran las clases
+Cómo se estructuran las clases
 =======================================================
 
 - Cursos de R online y libros hay a patadas.
 - Aquí venimos a equivocarnos cuanto más mejor
 - Resolveremos cuantos más problemas mejor
-- Sistema de posit it para los ejercicios.
+- Sistema de post-it para los ejercicios.
 
 Objetivos
 =======================================================
 
-- Entender las ventajas de usar R (o otros lenguages de programación)
-- Que descubrais que con R se puede hacer casi todo (desde esta presentación hasta pedir pizza)
+- Entender las ventajas de usar R (u otros lenguages de programación)
+- Que descubráis que con R se puede hacer casi todo (desde esta presentación hasta pedir pizza)
 - Saber suficiente R para poder "googlear" lo que necesiteis aprender/resolver a partir de ahora.
 - Que le perdais el respeto a R!
 
@@ -44,7 +44,7 @@ Los Básicos
 - Carpeta 'ejercicios_resueltos'
 
 
-Y si no se algo? Uso de Stackoverflow.
+Y si no sé algo? Uso de Stackoverflow.
 ========================================================
 
 - [StackOverflow](http://stackoverflow.com)
@@ -57,7 +57,7 @@ Baremo del problema:
 - marrón (> 10 pestañas)
 
 
-Por que R?
+Por qué R?
 ========================================================
 
 >R has simple and obvious appeal. Through R, you can sift through complex data sets, manipulate data through sophisticated modeling functions, and create sleek graphics to represent the numbers, in just a few lines of code...R’s greatest asset is the vibrant ecosystem has developed around it: The R community is constantly adding new packages and features to its already rich function sets.
@@ -69,10 +69,10 @@ Seguro que R es la herramienta adecuada?
 ========================================================
 
 No siempre. R tiene limitaciones y debilidades:
-- Curva de aprendizage; syntaxis incosistente
+- Curva de aprendizaje; sintaxis inconsistente
 - Documentación fragmentada (?help, vignettes, etc...)
-- Calidad de los paquetes varia
-- No esta diseñado para grandes bases de datos (~100 Mb de csv)
+- Calidad de los paquetes varía
+- Inicialmente no diseñado para grandes bases de datos
 
 Hay otras herramientas:
 - Julia, Python, C++, bash, ...
@@ -103,8 +103,8 @@ No puedes reproducir
 No puedes reproducir
 ========================================================
 
-...lo que has perdido. Y si necesitas un archivo que existio hace 1, 10 o 100 dias?
-- Incremental backups (minimo)
+...lo que has perdido. Y si necesitas un archivo que existió hace 1, 10 ó 100 días?
+- Incremental backups (mínimo)
 - Version control (mejor). **Git** (y **GitHub**) es el más popular
 
 
@@ -112,7 +112,7 @@ Estadística
 =============================================
 
 - Es una ciencia dinámica.
-- Es una ciencia compleja y con diversas filosofias.
+- Es una ciencia compleja y con diversas filosofías.
 - Es una herramienta, no un fin.
 - No puede solucionar malos datos (e.g. baja replicación).
 - No puede solucionar un mal diseño experimental.
@@ -163,7 +163,7 @@ Resources
 Resources
 ========================================================
 
-- [CRAN task views](https://cran.r-project.org/web/views/) resumenes de tareas (e.g. Bayesiano)
+- [CRAN task views](https://cran.r-project.org/web/views/) resúmenes de tareas (e.g. Bayesiano)
 - e.g. [**Reproducible Research**](http://cran.r-project.org/web/views/ReproducibleResearch.html)
 - [RopenScience](https://ropensci.org/). Paquetes brutales para hacer ciencia abierta
 
@@ -171,7 +171,7 @@ Resources
 Resources
 ========================================================
 
-- [Quick-R](http://www.statmethods.net/): Donde yo voy ha consultar las recetas (PCA's, glm's, etc...)
+- [Quick-R](http://www.statmethods.net/): Donde yo voy a consultar las recetas (PCA's, glm's, etc...)
 - Cursos para empezar:
   *[r for cats](http://rforcats.net/)
   *[r-bio](http://r-bio.github.io/01-intro-R/)
