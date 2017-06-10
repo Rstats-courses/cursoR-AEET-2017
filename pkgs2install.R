@@ -15,6 +15,7 @@ install.packages(
     "lme4",
     "mapr",
     "merTools",
+    "nlme",
     "paperplanes",
     "plotly",
     "purrr",
